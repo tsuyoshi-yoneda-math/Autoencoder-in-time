@@ -8,6 +8,6 @@ We can recover the original scale time series from filtered (larger-scale) time 
 
 この時間オートエンコーダは、以下の論文で初めて提案されたreal-time-bandpass-filterをもとに創出されました。
 
-[https://arxiv.org/abs/2310.00290](https://arxiv.org/abs/2301.01254)
+https://arxiv.org/abs/2301.01254
 
 この時間オートエンコーダを使うことで、フィルタデータ（大スケールの振る舞い）を元のデータのスケールへ復元させることが可能となります。
